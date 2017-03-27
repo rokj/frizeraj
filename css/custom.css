@@ -1,0 +1,35 @@
+#mycarousel {
+  height: 400px;
+}
+
+.carousel-inner {
+  height: 400px;
+}
+
+.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-caption {
+  text-align: right;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+img.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.col-md-4 {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.container-fluid.footer {
+  margin-top: 50px;
+  border-top: 1px solid #d8d8d8;
+  background-color: #f1f1f1;
+}
