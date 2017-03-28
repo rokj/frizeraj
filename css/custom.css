@@ -1,9 +1,6 @@
-#mycarousel {
-  height: 400px;
-}
-
-.carousel-inner {
-  height: 400px;
+.navbar-brand {
+  font-size: 20px;
+  padding-left: 50px;
 }
 
 .carousel-indicators {
@@ -14,18 +11,25 @@
   text-align: right;
 }
 
+.carousel-caption.levo {
+  text-align: left;
+}
+
 .carousel-control.left, .carousel-control.right {
     background-image: none
 }
 
 img.logo {
-  width: 200px;
-  height: 200px;
+  height: 130px;
+  padding-top: 20px;
 }
 
-.col-md-4 {
-  padding-left: 50px;
-  padding-right: 50px;
+.row {
+  margin-top: 30px;
+}
+
+.row.footer {
+  margin-top: 0px;
 }
 
 .container-fluid.footer {
